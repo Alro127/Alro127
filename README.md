@@ -22,8 +22,10 @@
 |---------|-------------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25"/> **Java** | <progress value="85" max="100"></progress> 85% |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25"/> **JavaScript** | <progress value="80" max="100"></progress> 80% |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** | <progress value="70" max="100"></progress> 70% |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="25"/> **C#** | <progress value="65" max="100"></progress> 65% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25"/> **C++** | <progress value="70" max="100"></progress> 70% |
+| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25"/> **Dart** | <progress value="60" max="100"></progress> 60% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25"/> **Python** | <progress value="55" max="100"></progress> 55% |
 
 ---
 
@@ -33,7 +35,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="25"/> **Spring Boot** | <progress value="75" max="100"></progress> 75% |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25"/> **NodeJS** | <progress value="80" max="100"></progress> 80% |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25"/> **ReactJS** | <progress value="70" max="100"></progress> 70% |
-| <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25"/> **Flutter** | <progress value="60" max="100"></progress> 60% |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="25"/> **ExpressJS** | <progress value="75" max="100"></progress> 75% |
 
 ---
@@ -57,6 +58,7 @@
 
 ---
 
+### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alro127&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alro127&langs_count=6&hide=html,css,scss,tsql,shell,batchfile&theme=radical" alt="Top Languages"/>
 </p>
